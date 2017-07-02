@@ -1,0 +1,107 @@
+create github account
+define business process
+define application
+define identity object
+define identity method
+define identity atribute
+
+
+
+FI.TECH
+
+feature
+1. account system / login sYstem
+2. transaction / payment method
+3. sales order / order lists / shopping cart / 
+4. search item (sort)
+5. tracking order / ekspedisi
+6. kotak pesan
+7. forum (sharing community)
+8. newsletter / mailing list
+
+1. --> account system
+	username -
+	password
+	email
+	address
+	hp
+	verifikasi
+
+2. --> payment method
+	nama bank
+	no reknening
+	total price
+	discount
+	credit card number
+
+3. --> shopping cart
+	price list
+	quantity
+	code item
+	nama item
+	stock item
+	jenis vendor pengirim
+	ongkos kirim
+
+4. --> serach item
+	filter
+	sort by (price, rating, etc)
+	search
+
+5. tracking order
+	location
+	no resi
+	jenis ekspedisi
+	tanggal pengiriman
+
+6. kotak pesan
+	email
+	mail (text message)
+	retur item
+
+7. --> Voucher
+    Kode Voucher
+    Tanggal berlaku
+
+
+include bs dilakukan karena di dalamnya ada fiturnya
+kl extend itu karena ada dependensinya
+
+search, view Product, 
+
+
+
+Use case diagram --> sistem prosesnya
+
+class diagram
+protected ga bisa di panggil di dalem 1 file 2 class
+kl private bisa di panggil asal dalem 1 file, tp ga bisa beda file
+kl package itu di bundling di dalem1 namespace
+
+validasi biasanya di functionnya retrunya boolean (true or false)
+kl update account kan harus di ubah semua ga ada return value nya
+
+
+nama produk <- repository
+
+business process
+	business process diagram
+	business needs
+	feature
+
+system prcess
+	use case diagram
+	class diagram
+	ERD
+
+development
+	class library
+
+	page 1
+	page 2 (html)
+
+
+
+ERD 
+
+pfk terjadi kl ada hubungan many to many
