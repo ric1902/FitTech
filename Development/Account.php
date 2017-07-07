@@ -2,7 +2,7 @@
 
 class Account{
   public function UpdateProfile(){
-    
+
   }
 }
  ?>
