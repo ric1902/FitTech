@@ -1,0 +1,29 @@
+Contact 1
+SignUp 1
+Login 2
+Account 1
+Address
+Logout 2
+Mail 2
+Voucher 3
+Product 4
+SearchItem 4
+FilterItem 3
+Shopping Cart 5
+Payment Method 7
+Bank 7
+Vendor 6
+Tracking ORder 6
+
+Pembagian tugas —-> FitTech :
+1, Contact, SignUp, Account
+2. Login, Logout, Mail
+3. Voucher, FilterItem
+4. Product, SearchItem
+5. Shopping Cart
+6. Tracking Order, Vendor
+7. Payment Method, Bank
+8. Account, Address + Front End (minta bantuan sama yang lain juga)
+
+Tugas tambahannya :
+but design logo same bantu yang kebagian front end ya yang lainnya
