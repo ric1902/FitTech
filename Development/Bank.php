@@ -1,10 +1,11 @@
 <?php
 
-class Bank{
-  public $BankId;
-  public $NamaBank;
-  public $NoRekening;
-  public $ccNumber;
+class Bank
+{
+  private $BankId;
+  private $NamaBank;
+  private $NoRekening;
+  private $ccNumber;
 }
 
  ?>
